@@ -6,7 +6,7 @@ function setup() {
     fill(0, 0, 0)
     circle(xpos, ypos, 50)
     xpos += 50
-    
+    ypos += 50
 }
 
 // function draw() {
