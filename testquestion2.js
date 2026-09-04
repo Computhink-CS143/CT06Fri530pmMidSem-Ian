@@ -1,5 +1,6 @@
 let xpos = 50
 let ypos = 50
+let colour = 0
 function setup() {
     createCanvas(600, 600);
     background("gray")
