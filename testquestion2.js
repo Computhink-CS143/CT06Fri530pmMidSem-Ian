@@ -5,7 +5,7 @@ function setup() {
     createCanvas(600, 600);
     background("gray")
     for (let i = 0; i < 10 ; i++) { 
-        fill(colour, 0, 0);
+        fill(colour, colour, colour);
         circle(xpos+i*50, ypos+i*50, 50);
         colour += 30;
     }
