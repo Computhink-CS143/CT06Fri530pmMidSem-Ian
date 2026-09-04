@@ -4,4 +4,6 @@ function setup() {
     strokeWeight(5)
 }
 
-function draw()
+function draw() {
+    
+}
