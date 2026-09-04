@@ -8,4 +8,5 @@ function draw() {
     fill("black")
     stroke("red")
     circle(200, 200, 50)
+    triangle
 }
