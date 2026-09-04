@@ -10,7 +10,7 @@ function setup() {
 }
 
 function draw() {
-    for (let i = 1; count < 50 ; count++) { 
+    for (let i = 1; i < 50 ; i++) { 
         circle(xpos+i*50, ypos+i*50, 50)
     }
 
