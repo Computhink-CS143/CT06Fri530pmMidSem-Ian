@@ -5,6 +5,7 @@ function setup() {
     background("gray")
     fill(0, 0, 0)
     circle(xpos, ypos, 50)
+    xpos+
 }
 
 // function draw() {
