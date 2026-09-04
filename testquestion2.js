@@ -12,5 +12,6 @@ function setup() {
 function draw() {
     for (let i = 1; count < 6; count++) { 
     circle(xpos+i*50, ypos+i*50, 50)
+    }
 
 }
