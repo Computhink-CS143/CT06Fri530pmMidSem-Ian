@@ -7,6 +7,6 @@ function setup() {
 function draw() {
     fill("black")
     stroke("red")
-    circle(200, 200, 50)
-    triangle
+    circle(100, 200, 50)
+    triangle()
 }
