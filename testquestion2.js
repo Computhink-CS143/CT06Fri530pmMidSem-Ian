@@ -10,7 +10,7 @@ function setup() {
 }
 
 function draw() {
-    circle(xpos, ypos, 50)
+    circle(xpos+i*50, ypos, 50)
     xpos += 50
     ypos += 50
 }
