@@ -3,7 +3,7 @@ let ypos = 50
 function setup() {
     createCanvas(600, 400);
     background("gray")
-    fill()
+    fill(0, 0, 0)
     circle(xpos, ypos, 50)
 }
 
