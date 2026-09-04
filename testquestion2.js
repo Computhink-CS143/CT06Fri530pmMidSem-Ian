@@ -10,9 +10,9 @@ function setup() {
 function draw() {
     
     for (let i = 0; i < 10 ; i++) { 
-        fill(colour, 0, 0)
+        fill(colour, 0, 0);
         circle(xpos+i*50, ypos+i*50, 50);
-        colour += 30
+        colour += 30;
     }
 
 }
