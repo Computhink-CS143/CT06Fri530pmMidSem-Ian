@@ -9,5 +9,5 @@ function draw() {
     stroke("red")
     circle(100, 200, 50)
     triangle(200, 220, 280, 220, 240, 180)
-    rect(300, 200, 50, 50)
+    rect(340, 150, 50, 50)
 }
