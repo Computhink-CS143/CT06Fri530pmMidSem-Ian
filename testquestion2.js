@@ -9,6 +9,8 @@ function setup() {
     ypos += 50
 }
 
-// function draw() {
-
-// }
+function draw() {
+    circle(xpos, ypos, 50)
+    xpos += 50
+    ypos += 50
+}
