@@ -7,5 +7,5 @@ function setup() {
 function draw() {
     fill("black")
     stroke("red")
-    circle(50, 50, 50)
+    circle(50, 150, 50)
 }
