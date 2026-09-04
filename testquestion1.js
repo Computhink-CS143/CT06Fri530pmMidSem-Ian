@@ -8,5 +8,5 @@ function draw() {
     fill("black")
     stroke("red")
     circle(100, 200, 50)
-    triangle(200, 220, 300, 220, 250, 100)
+    triangle(200, 220, 300, 220, 250, 150)
 }
